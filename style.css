@@ -150,8 +150,6 @@ ul {
 .numbers-bottom li:nth-child(even) {
     color: #fff;
 }
-.numbers-left {
-}
 .numbers-left ul {
     position: absolute;
     top: 200px;
